@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Irlanda3
+- 👋 Hi
 - 👀 I am currently looking for a job.
-- 🌱 MSUDenver
+- 🌱 Metropolitan State University of Denver 
 - 💞️ I’m looking to collaborate on frontend development:JavaScript, CSS, HTML, and Python projects...
 - 📫 aochoa1@msudenver.edu ...
 

@@ -1,5 +1,5 @@
 - 👋 Hi
-- 👀 Looking to collaborate 
+- 👀 learning something new everyday
 - 🌱 Metropolitan State University of Denver 
 - 💞️ I’m looking to collaborate on frontend development:JavaScript, CSS, HTML, and Python projects...
 - 📫 aochoa1@msudenver.edu ...

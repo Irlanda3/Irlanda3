@@ -1,4 +1,4 @@
-- 👋 Hello
+- 👋 Hello there
 - 👀 learning something new everyday
 - 🌱 Metropolitan State University of Denver 
 - 💞️ I’m looking to collaborate on frontend development:JavaScript, CSS, HTML, and Python projects...
